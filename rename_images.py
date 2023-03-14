@@ -1,5 +1,5 @@
 import os
- 
+
 # Function to rename multiple files
 
 def rename_images(folder,path):
